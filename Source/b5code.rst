@@ -1,9 +1,7 @@
 // Babylon 5 "..and so it begins" Code Project.
 // Description: The B5 equivalent of your traditional Hello World app.
-// Programming Language: Go
+// Programming Language: Rust
 
-package main
-
-func main() {
-	print ("...and so it begins.")
+fn main() {
+    println!("..and so it begins");
 }
