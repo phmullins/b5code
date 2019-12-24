@@ -5,12 +5,11 @@ languages as I can.
 
 ### Implemented
 
-To date I have created samples in the following languages: C, C++, C#, Elixir, Go, Haskell, Java, Kotlin, newLISP, 
-Rust, Swift, Python, and Ruby.
+To date I have created samples in the following languages: C, C++, C#, Crystal, Elixir, Go, Haskell, Java, Kotlin, newLISP, Rust, Swift, Python, and Ruby.
 
 ### To-Do
 
-The following languages are in the works: ADA, Basic, Clojure, Cobol, CoffeeScript, Common Lisp, Crystal, D, Erlang, 
+The following languages are in the works: ADA, Basic, Clojure, Cobol, CoffeeScript, Common Lisp, D, Erlang, 
 F#, Fortran, Groovy, JavaScript, Julia, Lua, Nu, Objective-C, OCaml, Pascal, Perl, Prolog, R, Red, RubyMotion, Scala, 
 Scheme, Smalltalk, Wolfram, and many others.
 
