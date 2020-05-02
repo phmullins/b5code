@@ -11,48 +11,11 @@
 	<key>FileFilterMode:pmullins</key>
 	<integer>0</integer>
 	<key>OpenDocuments:pmullins</key>
-	<array>
-		<dict>
-			<key>BookmarkData</key>
-			<data>
-			Ym9vayADAAAAAAQQMAAAACEbi3/mexlko81CRZ+LePdk+Qr6r8o7
-			VUx0wViQoll8EAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
-			AAAIAAAAAQEAAHBtdWxsaW5zCwAAAAEBAABEZXZlbG9wbWVudAAG
-			AAAAAQEAAGI1Y29kZQAACQAAAAEBAAByZWFkbWUubWQAAAAUAAAA
-			AQYAABAAAAAgAAAAMAAAAEQAAABUAAAACAAAAAQDAABotwoAAAAA
-			AAgAAAAEAwAAY2ELAAAAAAAIAAAABAMAADBxDQAAAAAACAAAAAQD
-			AABW0w0AAAAAAAgAAAAEAwAAZNMNAAAAAAAUAAAAAQYAAIQAAACU
-			AAAApAAAALQAAADEAAAACAAAAAAEAABBwOCFugAAABgAAAABAgAA
-			AQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
-			AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1h
-			Y2ludG9zaCBIRAgAAAAEAwAAAKAgaHQAAAAIAAAAAAQAAEHBK/YE
-			TYx2JAAAAAEBAAAxRDAxQ0M5NC05RENDLTREMUUtQjAxOS04M0Mz
-			QTc0QjhCNTgYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAA
-			AAEAAAABAQAALwAAAAAAAAABBQAAGgAAAAEBAABOU1VSTERvY3Vt
-			ZW50SWRlbnRpZmllcktleQAABAAAAAMDAAC6BAAA2AAAAP7///8B
-			AAAAAAAAABEAAAAEEAAAaAAAAAAAAAAFEAAA1AAAAAAAAAAQEAAA
-			AAEAAAAAAABAEAAA8AAAAAAAAAACIAAAzAEAAAAAAAAFIAAAPAEA
-			AAAAAAAQIAAATAEAAAAAAAARIAAAgAEAAAAAAAASIAAAYAEAAAAA
-			AAATIAAAcAEAAAAAAAAgIAAArAEAAAAAAAAwIAAA2AEAAAAAAAAB
-			wAAAIAEAAAAAAAARwAAAIAAAAAAAAAASwAAAMAEAAAAAAAAQ0AAA
-			BAAAAAAAAADgAQCABAIAAAAAAAA=
-			</data>
-			<key>FileURL</key>
-			<string>file:///Users/pmullins/Development/b5code/readme.md</string>
-			<key>HasSecurityScope</key>
-			<true/>
-			<key>RelativePath</key>
-			<string>./readme.md</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-	</array>
+	<array/>
 	<key>OpenDocumentsExpanded</key>
 	<true/>
 	<key>OpenDocumentsSplitterProportion</key>
-	<real>0.83976608187134505</real>
+	<real>0.66198830409356724</real>
 	<key>ProjectItemsExpanded</key>
 	<true/>
 	<key>ProjectViewVisible</key>
@@ -61,36 +24,34 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
 				<data>
-				Ym9vayADAAAAAAQQMAAAACEbi3/mexlko81CRZ+LePdk
-				+Qr6r8o7VUx0wViQoll8EAIAAAQAAAADAwAAAAgAKAUA
+				Ym9va+QCAAAAAAQQMAAAAPXO/Trq0CSxKZ8TiYDMBAR8
+				deQCpVqgtTxvYFNk1Anw4AEAAAQAAAADAwAAAAgAKAUA
 				AAABAQAAVXNlcnMAAAAIAAAAAQEAAHBtdWxsaW5zCwAA
 				AAEBAABEZXZlbG9wbWVudAAGAAAAAQEAAGI1Y29kZQAA
 				CQAAAAEBAAByZWFkbWUubWQAAAAUAAAAAQYAABAAAAAg
-				AAAAMAAAAEQAAABUAAAACAAAAAQDAABotwoAAAAAAAgA
-				AAAEAwAAY2ELAAAAAAAIAAAABAMAADBxDQAAAAAACAAA
-				AAQDAABW0w0AAAAAAAgAAAAEAwAAZNMNAAAAAAAUAAAA
+				AAAAMAAAAEQAAABUAAAACAAAAAQDAAA9VAAAAAAAAAgA
+				AAAEAwAAEXYAAAAAAAAIAAAABAMAAAYAAgAAAAAACAAA
+				AAQDAAC0YgIAAAAAAAgAAAAEAwAAxWICAAAAAAAUAAAA
 				AQYAAIQAAACUAAAApAAAALQAAADEAAAACAAAAAAEAABB
 				wOCFugAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAA
 				AAAAAAAACAAAAAQDAAADAAAAAAAAAAQAAAADAwAA9QEA
 				AAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9z
-				aCBIRAgAAAAEAwAAAKAgaHQAAAAIAAAAAAQAAEHBK/YE
-				TYx2JAAAAAEBAAAxRDAxQ0M5NC05RENDLTREMUUtQjAx
-				OS04M0MzQTc0QjhCNTgYAAAAAQIAAIEAAAABAAAA7xMA
+				aCBIRAgAAAAEAwAAAKAgaHQAAAAIAAAAAAQAAEHCC+Z3
+				jrN7JAAAAAEBAABFM0MzQTJCMC01QUFGLTQyRUMtQTA0
+				NC1ENTQ2NEZCQThBQUQYAAAAAQIAAIEAAAABAAAA7xMA
 				AAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAA
-				GgAAAAEBAABOU1VSTERvY3VtZW50SWRlbnRpZmllcktl
-				eQAABAAAAAMDAAC6BAAA2AAAAP7///8BAAAAAAAAABEA
-				AAAEEAAAaAAAAAAAAAAFEAAA1AAAAAAAAAAQEAAAAAEA
-				AAAAAABAEAAA8AAAAAAAAAACIAAAzAEAAAAAAAAFIAAA
-				PAEAAAAAAAAQIAAATAEAAAAAAAARIAAAgAEAAAAAAAAS
-				IAAAYAEAAAAAAAATIAAAcAEAAAAAAAAgIAAArAEAAAAA
-				AAAwIAAA2AEAAAAAAAABwAAAIAEAAAAAAAARwAAAIAAA
-				AAAAAAASwAAAMAEAAAAAAAAQ0AAABAAAAAAAAADgAQCA
-				BAIAAAAAAAA=
+				zAAAAP7///8BAAAAAAAAABAAAAAEEAAAaAAAAAAAAAAF
+				EAAA1AAAAAAAAAAQEAAAAAEAAAAAAABAEAAA8AAAAAAA
+				AAACIAAAzAEAAAAAAAAFIAAAPAEAAAAAAAAQIAAATAEA
+				AAAAAAARIAAAgAEAAAAAAAASIAAAYAEAAAAAAAATIAAA
+				cAEAAAAAAAAgIAAArAEAAAAAAAAwIAAA2AEAAAAAAAAB
+				wAAAIAEAAAAAAAARwAAAIAAAAAAAAAASwAAAMAEAAAAA
+				AAAQ0AAABAAAAAAAAAA=
 				</data>
 				<key>FileURL</key>
 				<string>file:///Users/pmullins/Development/b5code/readme.md</string>
@@ -104,50 +65,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
-			<key>Location</key>
-			<dict>
-				<key>BookmarkData</key>
-				<data>
-				Ym9vayADAAAAAAQQMAAAACEbi3/mexlko81CRZ+LePdk
-				+Qr6r8o7VUx0wViQoll8EAIAAAQAAAADAwAAAAgAKAUA
-				AAABAQAAVXNlcnMAAAAIAAAAAQEAAHBtdWxsaW5zCwAA
-				AAEBAABEZXZlbG9wbWVudAAGAAAAAQEAAGI1Y29kZQAA
-				CQAAAAEBAAByZWFkbWUubWQAAAAUAAAAAQYAABAAAAAg
-				AAAAMAAAAEQAAABUAAAACAAAAAQDAABotwoAAAAAAAgA
-				AAAEAwAAY2ELAAAAAAAIAAAABAMAADBxDQAAAAAACAAA
-				AAQDAABW0w0AAAAAAAgAAAAEAwAAZNMNAAAAAAAUAAAA
-				AQYAAIQAAACUAAAApAAAALQAAADEAAAACAAAAAAEAABB
-				wOCFugAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAA
-				AAAAAAAACAAAAAQDAAADAAAAAAAAAAQAAAADAwAA9QEA
-				AAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9z
-				aCBIRAgAAAAEAwAAAKAgaHQAAAAIAAAAAAQAAEHBK/YE
-				TYx2JAAAAAEBAAAxRDAxQ0M5NC05RENDLTREMUUtQjAx
-				OS04M0MzQTc0QjhCNTgYAAAAAQIAAIEAAAABAAAA7xMA
-				AAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAA
-				GgAAAAEBAABOU1VSTERvY3VtZW50SWRlbnRpZmllcktl
-				eQAABAAAAAMDAAC6BAAA2AAAAP7///8BAAAAAAAAABEA
-				AAAEEAAAaAAAAAAAAAAFEAAA1AAAAAAAAAAQEAAAAAEA
-				AAAAAABAEAAA8AAAAAAAAAACIAAAzAEAAAAAAAAFIAAA
-				PAEAAAAAAAAQIAAATAEAAAAAAAARIAAAgAEAAAAAAAAS
-				IAAAYAEAAAAAAAATIAAAcAEAAAAAAAAgIAAArAEAAAAA
-				AAAwIAAA2AEAAAAAAAABwAAAIAEAAAAAAAARwAAAIAAA
-				AAAAAAASwAAAMAEAAAAAAAAQ0AAABAAAAAAAAADgAQCA
-				BAIAAAAAAAA=
-				</data>
-				<key>FileURL</key>
-				<string>file:///Users/pmullins/Development/b5code/readme.md</string>
-				<key>HasSecurityScope</key>
-				<true/>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -189,7 +107,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -231,7 +149,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -273,7 +191,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -315,7 +233,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -357,7 +275,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -399,7 +317,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -441,7 +359,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -483,7 +401,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -525,7 +443,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -567,7 +485,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -611,7 +529,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-04-27T13:34:49Z</date>
+			<date>2020-04-19T18:27:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
