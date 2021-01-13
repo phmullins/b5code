@@ -1,0 +1,53 @@
+# Text Editor and IDE Project Files 
+*.bbprojectd
+*.code-workspace
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs & Databases
+*.log
+*.sql
+*.sqlite
+
+# Operating System Files
+.DS_Store*
+.AppleDouble
+.AppleDB
+.AppleDesktop
+.apdisk
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.VolumeIcon.icns
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Temporary Files
+.TemporaryItems
+.Trashes
+*.swp
+*.swo
+*~
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+terraform*
